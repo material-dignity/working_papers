@@ -16,9 +16,9 @@ The framework is articulated across five core working papers:
 
 The framework employs a specialized theoretical taxonomy. New contributors should review the [Systemic Dignity Glossary](./Systemic_Dignity_Glossary.md) as their primary navigation entry point to understand the core terminology used across all five working papers.
 
-## Speculative Research
+## Working Research
 
-The [/speculative_research](./speculative_research) directory contains draft materials, policy outlines, and system matrices that are under active development.
+The [/working_research](./working_research) directory contains draft materials, policy outlines, and system matrices that are under active development.
 
 ## Contributing
 
