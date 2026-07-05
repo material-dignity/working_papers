@@ -3,11 +3,12 @@
 # Systemic Dignity Infrastructure: Working Paper Build System
 #
 # Usage:
-#   make all      — Build all four papers
+#   make all      — Build all five papers
 #   make wp1      — Build WP1 only
 #   make wp2      — Build WP2 only
 #   make wp3      — Build WP3 only
 #   make wp4      — Build WP4 only
+#   make wp5      — Build WP5 only
 #   make clean    — Remove all build artifacts
 #   make verify   — Check that all citation keys resolve
 # ════════════════════════════════════════════════════════════════════════════════
@@ -28,11 +29,14 @@ WP3_SRC = ssrn-6579600_Revised
 WP4_DIR = wp4_human_layer
 WP4_SRC = ssrn-6881539_Revised
 
-.PHONY: all wp1 wp2 wp3 wp4 clean verify
+WP5_DIR = wp5_economic_dignity
+WP5_SRC = wp5_economic_dignity_Revised
 
-all: wp1 wp2 wp3 wp4
+.PHONY: all wp1 wp2 wp3 wp4 wp5 clean verify
+
+all: wp1 wp2 wp3 wp4 wp5
 	@echo "══════════════════════════════════════════"
-	@echo "  All four papers compiled successfully."
+	@echo "  All five papers compiled successfully."
 	@echo "══════════════════════════════════════════"
 
 wp1:
@@ -51,6 +55,10 @@ wp4:
 	@echo "Building WP4: Human Layer..."
 	cd $(WP4_DIR) && $(LATEX) $(WP4_SRC) && $(BIBTEX) $(WP4_SRC) && $(LATEX) $(WP4_SRC) && $(LATEX) $(WP4_SRC)
 
+wp5:
+	@echo "Building WP5: Economic Dignity..."
+	cd $(WP5_DIR) && $(LATEX) $(WP5_SRC) && $(BIBTEX) $(WP5_SRC) && $(LATEX) $(WP5_SRC) && $(LATEX) $(WP5_SRC)
+
 clean:
 	@echo "Cleaning build artifacts..."
 	find . -name "*.aux" -o -name "*.log" -o -name "*.bbl" \
@@ -61,7 +69,7 @@ clean:
 
 verify:
 	@echo "Verifying citation key resolution..."
-	@for dir in $(WP1_DIR) $(WP2_DIR) $(WP3_DIR) $(WP4_DIR); do \
+	@for dir in $(WP1_DIR) $(WP2_DIR) $(WP3_DIR) $(WP4_DIR) $(WP5_DIR); do \
 		echo "  Checking $$dir..."; \
 		if ls $$dir/*.blg 1>/dev/null 2>&1; then \
 			grep -c "Warning" $$dir/*.blg 2>/dev/null || echo "    No warnings."; \
