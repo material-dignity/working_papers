@@ -234,7 +234,7 @@
 
 - **Terminal Infrastructure Node**: The MDI characterization of the One California Plaza tower: the physical destination that the entire Clinical Field Architecture feeds into. Cannot function as an intake mechanism for Pipeline C without the pre-admission field architecture operating 12-to-24 months in advance.
 
-- **Three Ps Infrastructure**: The MDI residential behavioral floor specification covering privacy, predictability, and personal property. These are the minimum ambient environmental conditions required for neurological decompression in a population whose threat-detection systems have been calibrated by years of street exposure.
+- **Three Ps Infrastructure**: The structural elimination of three primary shelter refusal barriers: Pets (on-site facilities, veterinary nodes), Partners (co-location within the same pod), and Possessions (secure physical storage). These are the minimum operational guarantees required to achieve high voluntary acceptance rates during the warm offer.
 
 - **TVA Model (Tennessee Valley Authority)**: The federal operational precedent cited in WP3 for the MDI Stewardship Authority's organizational architecture: a regionally scoped, federally chartered entity with operational autonomy designed to execute infrastructure at the scale and speed that fragmented local governance cannot achieve.
 

@@ -252,6 +252,6 @@ The Cooperative Reintegration Mechanism requires a data system tracking cooperat
 **Labels:** `technical infrastructure`, `help wanted`
 
 **Description:**
-The framework requires resident-facing tools that allow individuals to track their own Identity Capital accumulation and transition readiness toward the Tenancy Bridge Guarantee activation threshold. The tools must present cooperative labor participation, governance engagement, and psychometric progress in an accessible format that reinforces Agentive Selfhood rather than institutional surveillance. Design must account for the target population's variable digital literacy and the Three Ps Infrastructure specification (privacy, predictability, personal property).
+The framework requires resident-facing tools that allow individuals to track their own Identity Capital accumulation and transition readiness toward the Tenancy Bridge Guarantee activation threshold. The tools must present cooperative labor participation, governance engagement, and psychometric progress in an accessible format that reinforces Agentive Selfhood rather than institutional surveillance. Design must account for the target population's variable digital literacy and the core markers of Ontological Security (privacy, predictability, and control).
 
 *UX designers, front-end engineers, or civic technology practitioners with experience designing tools for vulnerable populations are needed.*
