@@ -6,11 +6,11 @@ This repository contains five working papers that specify a structural framework
 
 Material Dignity Infrastructure is a five-paper theoretical architecture covering the full street-to-sovereignty pipeline:
 
-- **WP1** — Material Dignity Infrastructure (physical stabilization)
-- **WP2** — Structural Misalignment (activation of surplus shelter capacity)
-- **WP3** — Los Angeles Metropolitan Stabilization (street-to-home pipeline analysis)
-- **WP4** — Relational Dignity Infrastructure (the human layer)
-- **WP5** — Economic Dignity Infrastructure (cooperative reintegration and labor market reentry) [Draft]
+- **WP1**: Material Dignity Infrastructure (physical stabilization)
+- **WP2**: Structural Misalignment (activation of surplus shelter capacity)
+- **WP3**: Los Angeles Metropolitan Stabilization (street-to-home pipeline analysis)
+- **WP4**: Relational Dignity Infrastructure (the human layer)
+- **WP5**: Economic Dignity Infrastructure (cooperative reintegration and labor market reentry) [Draft]
 
 The papers specify mechanisms. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one.
 
@@ -20,7 +20,7 @@ The following gaps are open and named. Each represents a self-contained contribu
 
 ### Financial Modeling
 
-WP5 specifies the Tenancy Bridge Guarantee and cooperative revenue architecture at the categorical level. Unit-level financial projections are needed:
+WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechanism at the categorical level. Unit-level financial projections are needed:
 
 - CalAIM reimbursement rate modeling by county (California)
 - Oregon CCO and Washington State Medicaid waiver equivalents
