@@ -1,5 +1,5 @@
 % ════════════
-% 410_Manuscript.tex  —  VERSION 4
+% ssrn-6579600_Revised.tex
 % Material Dignity Infrastructure: 
 % Los Angeles Metropolitan Stabilization
 % A Street-to-Home Pipeline Analysis
@@ -7,83 +7,15 @@
 
 \documentclass[12pt, letterpaper]{article}
 
-% ── PACKAGES ──
-\usepackage[left=0.7in, right=0.7in, top=1in, bottom=1in, headheight=14pt]{geometry}
-\usepackage[expansion=false]{microtype}
-\usepackage{textcomp}
-\usepackage{setspace}
-\usepackage{booktabs}
-\usepackage{tabularx}
-\usepackage[titles]{tocloft}
-\usepackage{tabularray}
-\usepackage{longtable}
-\usepackage{array}
-\usepackage{multirow}
-\usepackage{hyperref}
-\usepackage{natbib}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{parskip}
-\usepackage{titlesec}
-\usepackage{fancyhdr}
-\usepackage[table]{xcolor}
-\usepackage{caption}
-\usepackage{footnote}
-\usepackage{enumitem}
-\usepackage{tikz}
-\usepackage{needspace}
-\usepackage{etoolbox}
-\usepackage{float}
+\newcommand{\papershorttitle}{Material Dignity Infrastructure (Los Angeles)}
+\newcommand{\paperdate}{Working Paper, May 2026}
+\newcommand{\papertitle}{Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization}
+\newcommand{\paperauthor}{DiBella, C.J.}
+\newcommand{\papersubject}{Urban Stabilization. Adaptive Reuse. Implementation Science.}
+\newcommand{\paperkeywords}{Material Dignity Infrastructure, adaptive reuse, homelessness stabilization, Measure Alpha, Los Angeles Metropolitan Stabilization, Housing First, Assertive Community Treatment, CARE Court, pipeline engineering, ontological security, Dunbar Pod, population taxonomy}
+\newcommand{\paperid}{6579600}
 
-% ── COLOR SYSTEM ───
-\definecolor{auditblue}{HTML}{003366}
-\definecolor{rowgray}{HTML}{F5F5F5}
-
-% ── GLOBAL SPACING ───
-\setstretch{1.4}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{8pt}
-\hyphenpenalty=1000
-
-% ── SECTION FORMATTING. ZERO BOLDING IN TEXT. ───
-\titleformat{\section}
-  {\normalfont\large\color{auditblue}}{\thesection.}{0.5em}{}
-\titleformat{\subsection}
-  {\normalfont\normalsize\color{auditblue}}{\thesubsection.}{0.5em}{}
-\titlespacing*{\section}{0pt}{18pt}{6pt}
-\titlespacing*{\subsection}{0pt}{12pt}{4pt}
-
-% ── HEADER / FOOTER ───
-\pagestyle{fancy}
-\fancyhf{}
-\rhead{\small\textit{Material Dignity Infrastructure (Los Angeles)}}
-\lhead{\small\textit{Working Paper, May 2026}}
-\cfoot{\thepage}
-\renewcommand{\headrulewidth}{0.4pt}
-
-% ── TABLE SETTINGS ───
-\renewcommand{\arraystretch}{1.3}
-
-% ── ORPHAN / WIDOW CONTROL ───
-\clubpenalty=10000
-\widowpenalty=10000
-\displaywidowpenalty=10000
-
-% ── BIBLIOGRAPHY ORPHAN PREVENTION ───
-\AtBeginEnvironment{thebibliography}{\interlinepenalty=10000}
-
-% ── HYPERREF CONFIGURATION ───
-\hypersetup{
-  colorlinks=true,
-  linkcolor=black,
-  citecolor=black,
-  urlcolor=black,
-  pdftitle={Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization},
-  pdfauthor={DiBella, C.J.},
-  pdfsubject={Urban Stabilization. Adaptive Reuse. Implementation Science.},
-  pdfkeywords={Material Dignity Infrastructure, adaptive reuse, homelessness stabilization, Measure Alpha, Los Angeles Metropolitan Stabilization, Housing First, Assertive Community Treatment, CARE Court, pipeline engineering, ontological security, Dunbar Pod, population taxonomy}
-}
-\setcounter{tocdepth}{2}
+\input{../templates/sdi_preamble}
 
 \begin{document}
 \captionsetup[table]{labelfont=normalfont, labelsep=period, skip=6pt}
@@ -146,15 +78,8 @@ Material Dignity Infrastructure, adaptive reuse, homelessness stabilization, Mea
 \noindent\textbf{Statement of Necessity}\\[1pt]
 Los Angeles is experiencing a three-dimensional structural failure involving housing, public health, and fiscal policy. Despite 24 billion dollars in expenditure since 2019, 46,000 unsheltered individuals remain on the street; furthermore, mortality among the unhoused has accelerated to create a 30-year life expectancy gap. Current systems fail because they violate causal necessity by deploying housing before the physiological prerequisites for maintaining tenure are present. Whereas Finland solved chronic homelessness by providing these prerequisites through a comprehensive national welfare infrastructure, the United States lacks such a foundational layer. The Material Dignity Infrastructure engineers a substitute for this missing infrastructure: a Metabolic Stabilization layer as Phase Zero that restores biological prerequisites before any permanent unit is offered. Because an alternative framework built on this causal foundation is required, the Material Dignity Infrastructure proposes a falsifiable, industrially specified pipeline extending from street engagement through permanent residential stabilization.
 
-\vspace{8pt}
-\noindent\textbf{Author's Note}\\[1pt]
-The author engineered this framework from three decades of unsheltered lived experience. Direct observation of street-level structural failure produced the finalized industrial pipeline. Companion audio architecture available at https://bikepaths.org/podcast
-
-\vspace{8pt}
-\noindent\textbf{Suggested Citation}\\[1pt]
-DiBella, C.J. (2026). Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization. A Street-to-Home Pipeline Analysis. Working Paper, May 2026.
-
 }
+\input{../templates/sdi_metadata}
 
 % ── TABLE OF CONTENTS ────
 \newpage

@@ -1,0 +1,101 @@
+% ════════════════════════════════════════════════════════════════════════════════
+% sdi_preamble.tex
+% Systemic Dignity Infrastructure: Master LaTeX Preamble
+% Shared template for all SDI working papers (WP1 through WP5)
+%
+% Usage: Place \input{../templates/sdi_preamble} at the top of each paper's
+%        .tex file, AFTER \documentclass, and BEFORE \begin{document}.
+%
+% Each paper must define these commands BEFORE calling \input:
+%   \newcommand{\papershorttitle}{Short Title for Header}
+%   \newcommand{\paperdate}{Working Paper, Month Year}
+%   \newcommand{\papertitle}{Full Title for PDF Metadata}
+%   \newcommand{\paperauthor}{DiBella, C.J.}
+%   \newcommand{\papersubject}{Subject Line for PDF Metadata}
+%   \newcommand{\paperkeywords}{keyword1, keyword2, keyword3}
+% ════════════════════════════════════════════════════════════════════════════════
+
+% ── PACKAGES ──────────────────────────────────────────────────────────────────
+\usepackage[left=0.7in, right=0.7in, top=1in, bottom=1in, headheight=14pt]{geometry}
+\usepackage[expansion=false]{microtype}
+\usepackage{textcomp}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[titles]{tocloft}
+\usepackage{tabularray}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage[table]{xcolor}
+\usepackage{caption}
+\usepackage{footnote}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{needspace}
+\usepackage{etoolbox}
+\usepackage{float}
+
+% ── COLOR SYSTEM ──────────────────────────────────────────────────────────────
+\definecolor{auditblue}{HTML}{003366}
+\definecolor{rowgray}{HTML}{F5F5F5}
+
+% ── GLOBAL SPACING ────────────────────────────────────────────────────────────
+\setstretch{1.4}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+\hyphenpenalty=1000
+
+% ── SECTION FORMATTING. ZERO BOLDING IN TEXT. ─────────────────────────────────
+\titleformat{\section}
+  {\normalfont\large\color{auditblue}}{\thesection.}{0.5em}{}
+\titleformat{\subsection}
+  {\normalfont\normalsize\color{auditblue}}{\thesubsection.}{0.5em}{}
+\titlespacing*{\section}{0pt}{18pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{4pt}
+
+% ── HEADER / FOOTER ──────────────────────────────────────────────────────────
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small\textit{\papershorttitle}}
+\lhead{\small\textit{\paperdate}}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ── TABLE SETTINGS ────────────────────────────────────────────────────────────
+\renewcommand{\arraystretch}{1.3}
+
+% ── ORPHAN / WIDOW CONTROL ───────────────────────────────────────────────────
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+% ── BIBLIOGRAPHY ORPHAN PREVENTION ───────────────────────────────────────────
+\AtBeginEnvironment{thebibliography}{\interlinepenalty=10000}
+
+% ── TABLE CAPTION FORMAT ─────────────────────────────────────────────────────
+\captionsetup[table]{labelfont=normalfont, labelsep=period, skip=6pt}
+
+% ── HYPERREF CONFIGURATION ───────────────────────────────────────────────────
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=black,
+  pdftitle={\papertitle},
+  pdfauthor={\paperauthor},
+  pdfsubject={\papersubject},
+  pdfkeywords={\paperkeywords}
+}
+\setcounter{tocdepth}{2}
+
+% ════════════════════════════════════════════════════════════════════════════════
+% End of sdi_preamble.tex
+% ════════════════════════════════════════════════════════════════════════════════
