@@ -26,7 +26,7 @@
 
 - **Biophilic Infrastructure**: A two-tier integrated green system within the MDI tower that introduces living plant systems, natural light modulation, and organic material surfaces to produce neurological downregulation of threat-detection in residents. Functions as a passive environmental decompression mechanism supporting the relational engagement required for identity capital accumulation.
 
-- **Buffer Stock**: A deliberate and constant surplus of ready-to-use stabilization units maintained within the National Stability Utility distribution layer. The inverse of the asset economy's vacancy logic—in cybernetic shelter architecture, an empty ready unit signals system health rather than speculative strategy.
+- **Buffer Stock**: A deliberate and constant surplus of ready-to-use stabilization units maintained within the National Stability Utility distribution layer. The inverse of the asset economy's vacancy logic: in cybernetic shelter architecture, an empty ready unit signals system health rather than speculative strategy.
 
 - **By-Name HMIS Registry**: A continuously updated Homeless Management Information System registry in which each individual within the MDI target zone is documented by name, GPS location pattern, survival anchors, pipeline classification, and behavioral observation. The operational backbone of the field architecture. Every housing unit is pre-matched to a named individual before the warm offer is made.
 
@@ -44,7 +44,7 @@
 
 - **Cooperative Reintegration Mechanism**: The internal closed-loop economic structure within the MDI tower in which maintenance, culinary operations, security, and administrative support are organized as resident-owned worker cooperatives. Designed to generate identity capital accumulation through protected economic participation before competitive external labor market exposure occurs. Operating at 100 enrolled residents produces approximately 25-to-35 compensated cooperative positions.
 
-- **CPTED (Crime Prevention Through Environmental Design)**: A design methodology prioritizing natural surveillance—residents and staff as ambient observers—over digital surveillance systems. Applied in the MDI tower to create safety through environmental design rather than costly formal security apparatus.
+- **CPTED (Crime Prevention Through Environmental Design)**: A design methodology prioritizing natural surveillance (residents and staff as ambient observers) over digital surveillance systems. Applied in the MDI tower to create safety through environmental design rather than costly formal security apparatus.
 
 - **Cybernetic Production**: A management architecture defined by continuous loops of real-time feedback that ensure supply exceeds demand with high reliability. Applied to shelter, it requires treating stabilization units as industrial consumables with high-velocity turnover rather than permanent capital assets. The operating logic of the National Stability Utility.
 
@@ -52,9 +52,9 @@
 
 ## D
 
-- **Data Desert**: The administrative condition in which outcomes are obscured by opaque funding pipelines, incompatible reporting standards, and siloed program structures—preventing evaluation, adaptation, and improvement. Exemplified by California's $24 billion in homelessness expenditure between 2018-2023 with no auditable record of outcomes.
+- **Data Desert**: The administrative condition in which outcomes are obscured by opaque funding pipelines, incompatible reporting standards, and siloed program structures, preventing evaluation, adaptation, and improvement. Exemplified by California's $24 billion in homelessness expenditure between 2018-2023 with no auditable record of outcomes.
 
-- **Day-30 Functional Indicators**: Five measurable stabilization benchmarks derived from standard psychiatric sub-acute utilization review criteria, tracked within the MHRC Cluster Phase Zero protocol. Progress on at least two indicators by day 30 constitutes the interim stabilization checkpoint. The five indicators are: sustained hygiene maintenance without staff prompting; sleep continuity of six or more hours without pharmacological support; orientation to person, place, and date consistently across three consecutive days; participation in at least one structured group activity per day; and initiation of at least one activity of daily living task independently per day.
+- **Day-30 Functional Indicators**: Five measurable stabilization benchmarks derived from standard psychiatric sub-acute review criteria, tracked within the MHRC Cluster Phase Zero protocol. Progress on at least two indicators by day 30 constitutes the interim stabilization checkpoint. The five indicators are: sustained hygiene maintenance without staff prompting; sleep continuity of six or more hours without pharmacological support; orientation to person, place, and date consistently across three consecutive days; participation in at least one structured group activity per day; and initiation of at least one activity of daily living task independently per day.
 
 - **Depreciating Asset Trap**: The condition experienced by hidden or vehicular homeless populations where partial identity capital is consumed entirely by the maintenance and legal defense of a rapidly depreciating mobile shelter.
 
@@ -62,7 +62,7 @@
 
 - **Dignity Stack**: The three-layer theoretical architecture produced by the cumulative MDI series. Layer 1: Material Dignity Infrastructure (biological survival conditions). Layer 2: Relational Dignity Infrastructure (relational environment producing ontological security). Layer 3: Agentive Selfhood (economic and civic reintegration). The stack is not modular: each layer is the precondition for the one above it.
 
-- **Diogenes Syndrome**: A clinical presentation featuring extreme self-neglect, domestic squalor, social withdrawal, and adamant refusal of help. Within the MDI framework, the accumulated hoard associated with Diogenes syndrome functions as an Exoskeletal Identity Structure—a physically bounded self-constructed world that has replaced the social world that rejected the individual. Intervention must be identity-preserving.
+- **Diogenes Syndrome**: A clinical presentation featuring extreme self-neglect, domestic squalor, social withdrawal, and adamant refusal of help. Within the MDI framework, the accumulated hoard associated with Diogenes syndrome functions as an Exoskeletal Identity Structure: a physically bounded self-constructed world that has replaced the social world that rejected the individual. Intervention must be identity-preserving.
 
 - **Distributed Stewardship Network (DSN)**: The Tier 2 housing architecture of the MDI framework, deploying single-occupancy ALMU units dispersed throughout stable residential neighborhoods at a density of one unit per 50 homes. Inverts the Concentration Paradigm by embedding formerly homeless individuals within existing social fabrics rather than segregating them in institutional facilities.
 
@@ -78,17 +78,17 @@
 
 - **Economic Dignity Infrastructure (EDI)**: The third and final structural layer of the SDI framework. Operationalizes the transition from passive service recipient to active economic participant through the Cooperative Reintegration Mechanism and the Tenancy Bridge Guarantee. Addresses the Return Deficit as its primary theoretical target.
 
-- **Efficiency Surplus**: The annual fiscal margin generated by the MDI tower at One California Plaza, modeled at $33-to-$82 million per tower annually, derived from the differential between emergency system cost avoidance (reduced ER, jail, and crisis service utilization) and total tower operating expenditure. Functions as the economic validation threshold of the Singular Prototype Threshold.
+- **Efficiency Surplus**: The annual fiscal margin generated by the MDI tower at One California Plaza, modeled at $33-to-$82 million per tower annually, derived from the differential between emergency system cost avoidance (reduced ER, jail, and crisis service use) and total tower operating expenditure. Functions as the economic validation threshold of the Singular Prototype Threshold.
 
 - **Employment Social Enterprise (ESE)**: Traditional transitional employment programs that prepare individuals for insertion into competitive external labor markets. Identified in WP5 as structurally insufficient against the Return Deficit because they optimize against individual barriers sequentially rather than addressing the compound multiplicative penalty structure simultaneously.
 
-- **Exoskeletal Identity Structure**: The accumulated material hoard associated with Diogenes syndrome that functions as the physical boundary of a self-constructed world. Not random accumulation—a structural identity substitute that has replaced the social world. Removing it without simultaneously replacing the identity structure triggers acute psychiatric destabilization.
+- **Exoskeletal Identity Structure**: The accumulated material hoard associated with Diogenes syndrome that functions as the physical boundary of a self-constructed world. Not random accumulation; it is a structural identity substitute that has replaced the social world. Removing it without simultaneously replacing the identity structure triggers acute psychiatric destabilization.
 
 ---
 
 ## F
 
-- **Fateful Moment**: Anthony Giddens's term for a threshold event that pierces the protective cocoon of routine and forces existential re-evaluation. The housing event constitutes a fateful moment—a period of acute ontological vulnerability during which the supporting architecture of the new environment either initiates recovery or confirms the individual's existing threat model.
+- **Fateful Moment**: Anthony Giddens's term for a threshold event that pierces the protective cocoon of routine and forces existential re-evaluation. The housing event constitutes a fateful moment: a period of acute ontological vulnerability during which the supporting architecture of the new environment either initiates recovery or confirms the individual's existing threat model.
 
 ---
 
@@ -152,7 +152,7 @@
 
 - **Named Peer Contact Index**: An RDI leading indicator metric targeting a minimum of three named reciprocal peer contacts per resident by day 90 of housing. The primary social integration predictor of 24-month housing retention. A pod achieving this threshold generates $26,000-to-$35,000 in avoided re-housing processing costs per year.
 
-- **National Stability Utility**: A proposed public entity functioning as a master tenant for the nation's surplus shelter capacity, aggregating idle space—including vacant apartments, high-vacancy office towers, dead malls, and unused manufactured housing—into a unified stabilization substrate governed by cybernetic production logic rather than asset preservation logic.
+- **National Stability Utility**: A proposed public entity functioning as a master tenant for the nation's surplus shelter capacity, aggregating idle space, including vacant apartments, high-vacancy office towers, dead malls, and unused manufactured housing, into a unified stabilization substrate governed by cybernetic production logic rather than asset preservation logic.
 
 - **Neighborhoods of Knowingness**: The spatial organization principle applied by Community First! Village in Austin, Texas, clustering small groups of homes to achieve outcomes comparable to international Housing First implementations through proximity-based social recognition rather than Dunbar-scale institutional design.
 
@@ -164,7 +164,7 @@
 
 ## O
 
-- **Objectification Failure**: The predictable institutional response to the conflict between operational efficiency and personalized relationship in service systems processing large populations under volume-based financial incentives. Objectification eliminates social recognition—the condition of being known as a specific person—which is constitutive of ontological security and the leading predictor of housing retention.
+- **Objectification Failure**: The predictable institutional response to the conflict between operational efficiency and personalized relationship in service systems processing large populations under volume-based financial incentives. Objectification eliminates social recognition, the condition of being known as a specific person, which is constitutive of ontological security and the leading predictor of housing retention.
 
 - **One California Plaza**: The designated prototype site for the first MDI tower in Los Angeles, providing 2,000 pre-matched units. The physical terminal infrastructure node that bridges the gap between the Clinical Field Architecture and permanent residential stabilization. Eight binary Singular Prototype Threshold metrics must all pass at this site before network expansion to a 20-tower metropolitan deployment proceeds.
 
@@ -180,7 +180,7 @@
 
 ## P
 
-- **Permanent Institutionalization Risk**: The structural failure mode in which the MDI facility becomes a terminal destination rather than a transitional mechanism—a resident occupying stabilization capacity indefinitely, consuming cooperative labor positions, and failing to produce the Tenancy Bridge revenue required for fiscal solvency. Addressed through explicit residency timelines, transition accountability structures, and discharge planning protocols.
+- **Permanent Institutionalization Risk**: The structural failure mode in which the MDI facility becomes a terminal destination rather than a transitional mechanism, where a resident occupies stabilization capacity indefinitely, consuming cooperative labor positions, and failing to produce the Tenancy Bridge revenue required for fiscal solvency. Addressed through explicit residency timelines, transition accountability structures, and discharge planning protocols.
 
 - **Phase Zero**: The preliminary clinical stabilization stage of the MDI pipeline, running concurrently with ground floor intake, that executes physiological stabilization before the permanent warm housing offer occurs. Encompasses metabolic refeeding, sleep restoration, wound care, psychiatric symptom management, and the three-phase diagnostic protocol. The causal test of the MDI primary thesis.
 
@@ -200,9 +200,9 @@
 
 - **Relational Dignity Infrastructure (RDI)**: The second structural layer of the SDI framework. The systematically designed, continuously operating social environment that generates ontological security, sustains identity capital accumulation, and maintains the social recognition of each resident as a specific named person with a particular history. Infrastructure in the technical sense: designed to specification, built into the operational architecture, continuously maintained, and measured against defined performance thresholds.
 
-- **Relational Intake Protocol**: The MDI warm offer specification governing who makes the offer, what individual history it references, and how refusal is treated as a continuation of an ongoing relationship rather than a closed application. A clinical protocol with mechanics grounded in polyvagal theory and neuroception management, not merely a communication preference.
+- **Relational Intake Protocol**: The MDI warm offer specification governing who makes the offer, what individual history it references, and how refusal is treated as a continuation of an ongoing relationship rather than a closed application. A clinical protocol with mechanics grounded in polyvagal theory and neuroception management, not simply a communication preference.
 
-- **Return Deficit**: The aggregate, compounding reduction in labor market returns experienced by individuals carrying multiple co-occurring stigmatized institutional markers—extended employment gaps, criminal records, absent address history, absent professional references, and visible institutional histories—where the compound effect is multiplicative rather than additive. Produces effective labor market returns approaching zero regardless of effort invested. The primary theoretical target of Economic Dignity Infrastructure.
+- **Return Deficit**: The aggregate, compounding reduction in labor market returns experienced by individuals carrying multiple co-occurring stigmatized institutional markers: extended employment gaps, criminal records, absent address history, absent professional references, and visible institutional histories, where the compound effect is multiplicative rather than additive. Produces effective labor market returns approaching zero regardless of effort invested. The primary theoretical target of Economic Dignity Infrastructure.
 
 - **Riparian Encampment Abatement**: The Environmental Compliance Enforcement Track of the MDI pipeline targeting the hidden riparian sub-population through Clean Water Act NPDES enforcement proceedings, Army Corps of Engineers jurisdiction, and LARWQCB enforcement records. The legal basis for clearance is environmental protection rather than housing law, providing abatement authority independent of the Grants Pass v. Johnson municipal clearance framework.
 
@@ -232,17 +232,17 @@
 
 - **Tenancy Bridge Guarantee**: A self-executing contractual mechanism bridging Phase One stabilization (the MDI tower) and Phase Two sovereign tenancy. Triggered upon verified identity capital accumulation through sustained cooperative participation over a designated multi-month window. Funded through three revenue sources: cooperative enterprise operations, Medicaid care management navigation reimbursement (CalAIM, Oregon CCO, Washington Medicaid waiver equivalents), and administrative support fees. The exit mechanism designed to prevent permanent institutionalization.
 
-- **Terminal Infrastructure Node**: The MDI characterization of the One California Plaza tower—the physical destination that the entire Clinical Field Architecture feeds into. Cannot function as an intake mechanism for Pipeline C without the pre-admission field architecture operating 12-to-24 months in advance.
+- **Terminal Infrastructure Node**: The MDI characterization of the One California Plaza tower: the physical destination that the entire Clinical Field Architecture feeds into. Cannot function as an intake mechanism for Pipeline C without the pre-admission field architecture operating 12-to-24 months in advance.
 
-- **Three Ps Infrastructure**: The MDI residential behavioral floor specification covering privacy, predictability, and personal property—the minimum ambient environmental conditions required for neurological decompression in a population whose threat-detection systems have been calibrated by years of street exposure.
+- **Three Ps Infrastructure**: The MDI residential behavioral floor specification covering privacy, predictability, and personal property. These are the minimum ambient environmental conditions required for neurological decompression in a population whose threat-detection systems have been calibrated by years of street exposure.
 
-- **TVA Model (Tennessee Valley Authority)**: The federal operational precedent cited in WP3 for the MDI Stewardship Authority's organizational architecture—a regionally scoped, federally chartered entity with operational autonomy designed to execute infrastructure at the scale and speed that fragmented local governance cannot achieve.
+- **TVA Model (Tennessee Valley Authority)**: The federal operational precedent cited in WP3 for the MDI Stewardship Authority's organizational architecture: a regionally scoped, federally chartered entity with operational autonomy designed to execute infrastructure at the scale and speed that fragmented local governance cannot achieve.
 
 ---
 
 ## U
 
-- **Unconditional Script**: A systems diagnostic that maps industrial contradictions—specifically the gap between documented surplus shelter capacity and documented street mortality—so precisely that the administrative and ideological covers obscuring the contradiction are removed. Forces the collision between empty rooms and dying individuals into inescapable visibility.
+- **Unconditional Script**: A systems diagnostic that maps industrial contradictions, specifically the gap between documented surplus shelter capacity and documented street mortality, so precisely that the administrative and ideological covers obscuring the contradiction are removed. Forces the collision between empty rooms and dying individuals into inescapable visibility.
 
 ---
 
