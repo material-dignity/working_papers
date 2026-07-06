@@ -1,6 +1,6 @@
 # Material Dignity Infrastructure
 
-This repository contains the theoretical architecture for the Material Dignity Infrastructure framework—a comprehensive strategy for reversing chronic unsheltered homelessness through systemic stabilization, cooperative economics, and supportive housing.
+This repository contains the theoretical architecture for the Material Dignity Infrastructure framework: a comprehensive strategy for reversing chronic unsheltered homelessness through systemic stabilization, cooperative economics, and supportive housing.
 
 ## Working Papers
 
