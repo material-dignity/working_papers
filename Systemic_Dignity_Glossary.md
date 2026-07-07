@@ -10,7 +10,7 @@
 
 - **Agentive Selfhood**: The behavioral capacity to initiate unprompted action, participate in governance, and articulate long-term economic goals. Recovered through internal micro-economic participation within a protected cooperative structure rather than direct insertion into the competitive external labor market.
 
-- **ALMU (Asset-Limited Modular Unit)**: A factory-built, single-occupancy structure of 120–150 square feet designed for a 20-to-30 year lifespan, with the federal government retaining ownership title. Federal ownership enables capital mobility (relocation if a steward exits), uniform quality control, and reinforcement of the transitional character of the unit. The ALMU is the core housing technology of the Distributed Stewardship Network.
+- **ALMU (Asset-Limited Modular Unit)**: The precision-engineered 150 sq ft residential module within the MDI tower. Classified as a non-property interest. Includes independent wet bath, Murphy wall-bed, locking storage, induction cooktop, mini-refrigerator, and STC 65 acoustic door. Only the resident holds the key.
 
 - **Anosognosia**: A neurological incapacity to perceive one's own psychiatric condition, produced by the frontal lobe damage associated with psychotic illness. Present in 50-to-80 percent of individuals with schizophrenia. Outreach strategies premised on persuasion are ineffective because they target a self-monitoring faculty the disease has destroyed. Determines routing to the compelled legal lever pathway rather than voluntary engagement.
 
@@ -40,7 +40,7 @@
 
 - **Clinical Field Architecture**: The pre-admission operational layer of the MDI pipeline, consisting of ACT team sustained encampment presence, the by-name HMIS registry, the warm offer protocol, and encampment resolution. Operates 12-to-24 months before any unit activation.
 
-- **Concentration Paradigm**: The prevailing American approach to homelessness resolution that sequesters unhoused populations in large-scale institutional facilities on expensive urban land. Produces mechanical inefficiencies including institutional strip of autonomy, formation of concentrated predatory ecosystems, expensive security apparatus requirements, and fierce NIMBY resistance. The MDI Distributed Stewardship Network directly inverts this logic.
+- **Concentration Paradigm**: The prevailing American approach to homelessness resolution that sequesters unhoused populations in large-scale institutional facilities on expensive urban land. Produces mechanical inefficiencies including institutional strip of autonomy, formation of concentrated predatory ecosystems, expensive security apparatus requirements, and fierce NIMBY resistance. The MDI tower architecture directly inverts this logic by achieving relational density and sovereign space within a centralized facility.
 
 - **Cooperative Reintegration Mechanism**: The internal closed-loop economic structure within the MDI tower in which maintenance, culinary operations, security, and administrative support are organized as resident-owned worker cooperatives. Designed to generate identity capital accumulation through protected economic participation before competitive external labor market exposure occurs. Operating at 100 enrolled residents produces approximately 25-to-35 compensated cooperative positions.
 
@@ -64,9 +64,8 @@
 
 - **Diogenes Syndrome**: A clinical presentation featuring extreme self-neglect, domestic squalor, social withdrawal, and adamant refusal of help. Within the MDI framework, the accumulated hoard associated with Diogenes syndrome functions as an Exoskeletal Identity Structure: a physically bounded self-constructed world that has replaced the social world that rejected the individual. Intervention must be identity-preserving.
 
-- **Distributed Stewardship Network (DSN)**: The Tier 2 housing architecture of the MDI framework, deploying single-occupancy ALMU units dispersed throughout stable residential neighborhoods at a density of one unit per 50 homes. Inverts the Concentration Paradigm by embedding formerly homeless individuals within existing social fabrics rather than segregating them in institutional facilities.
 
-- **Dunbar Cohort**: A social grouping scaled to human cognitive limits (approximately 150 individuals, or smaller operational sub-pods of 12-to-15) used to architect relational dignity and mutual accountability without triggering nervous system hyper-vigilance. Applied in the MDI tower through partitioning into 13 pods of approximately 154 residents each.
+- **Dunbar Cohort**: A social grouping scaled to human cognitive limits used to architect relational dignity and mutual accountability without triggering nervous system hyper-vigilance. Applied in the MDI tower through strict partitioning into 13 Dunbar Pods of exactly 154 residents each, which are further divided into Dunbar Sub-Pods of exactly 12 residents.
 
 - **Duration of Untreated Psychosis (DUP)**: The cumulative period during which a psychotic disorder progresses without clinical treatment. Pipeline C individuals present with DUP ranging from 5-to-15 years, producing measurable progressive brain changes including increasing cognitive rigidity, treatment resistance, and functional decline that standard clinical timescales cannot address.
 
@@ -136,13 +135,13 @@
 
 - **Material Dignity**: The baseline social state defined by stable access to private shelter, clean hygiene, food, and thermal safety. The floor upon which all subsequent clinical, behavioral, and economic recovery is built.
 
-- **Material Dignity Infrastructure (MDI)**: The first structural layer of the SDI framework. The physical environment and distributed housing architecture required to reverse metabolic deterioration through secure acoustic sanctuaries, caloric predictability, and sovereign space. Encompasses the ALMU, the Comfort Station network, the MHRC cluster Phase Zero, and the One California Plaza tower specification.
+- **Material Dignity Infrastructure (MDI)**: The first structural layer of the SDI framework. The physical environment and distributed housing architecture required to reverse metabolic deterioration through secure acoustic sanctuaries, caloric predictability, and sovereign space. Encompasses the ALMU, the Open Resource Center, the MHRC cluster Phase Zero, and the One California Plaza tower specification.
 
 - **Metabolic Flow**: The industrial logic that treats primary essentials as high-velocity resources that move through a system to sustain biological life. Food and clothing already operate on metabolic flow logic. Shelter does not, and that structural exclusion is the primary cause of the housing crisis.
 
 - **Metabolic Stabilization**: The core physiological intervention of Phase Zero that closes the sequencing gap between street-level acute crisis and housing readiness. Reverses electrolyte derangements, nutritional deficits, sleep discontinuity, and psychiatric symptom severity before the permanent warm housing offer occurs. The precondition for Housing First to achieve Finnish-level retention outcomes.
 
-- **MHRC Cluster Model**: The Phase Zero operational architecture deploying five 15-bed Mental Health Rehabilitation Center clusters within a contiguous geographic zone. Each cluster files an independent DHCS Form 1813 licensure application and bills Medi-Cal independently as a specialty mental health sub-acute facility. The sub-16 unit threshold is architecturally designed to avoid the Institution for Mental Disease Exclusion while maximizing federal financial participation.
+- **MHRC Cluster Model**: The Phase Zero operational architecture deploying five 15-bed Mental Health Rehabilitation Center clusters within a contiguous geographic zone. Each cluster files an independent DHCS Form 1813 licensure application and bills Medi-Cal independently as a specialty mental health sub-acute facility. The fifteen-unit threshold is architecturally designed to avoid the Institution for Mental Disease Exclusion while maximizing federal financial participation.
 
 - **Micro-Community Governance**: The pod-level resident governance structure within the MDI tower, anchored by the weekly Pod Council. Positions every resident as a citizen with a voice producing effects on the shared environment. Functions as an identity reconstruction mechanism and a component of the Cooperative Reintegration civic participation pathway.
 
@@ -158,7 +157,7 @@
 
 - **Neuroception**: The nervous system's non-conscious process of continuously scanning the environment for cues of safety or threat, as defined by Stephen Porges's polyvagal theory. Chronic street exposure locks neuroception into permanent sympathetic-dominant or dorsal-vagal shutdown states. The housing design requirement flowing from this is that the relational environment must signal safety at the autonomic level, not only the conscious level.
 
-- **NIMBY / YIMBY**: Not In My Back Yard / Yes In My Back Yard. The MDI Distributed Stewardship Network mechanically converts NIMBY opposition into YIMBY participation by replacing negative externalities (perceived property value decline) with positive externalities (tax credits, property value enhancement through ALMU placement, and federal liability coverage).
+- **NIMBY / YIMBY**: Not In My Back Yard / Yes In My Back Yard. The MDI tower architecture mechanically bypasses NIMBY opposition by utilizing adaptive reuse of existing commercial real estate in downtown cores, avoiding the placement of new institutional facilities in residential neighborhoods.
 
 ---
 
