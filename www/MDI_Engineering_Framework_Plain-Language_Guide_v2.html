@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Systemic Dignity Infrastructure — Plain-Language Guide v2</title>
+  <style>
+    :root {
+      --navy: #1B4F72;
+      --blue: #2E86C1;
+      --light-blue: #AED6F1;
+      --pale: #EBF5FB;
+      --green: #1E8449;
+      --light-green: #A9DFBF;
+      --pale-green: #EAFAF1;
+      --orange: #B7770D;
+      --pale-orange: #FEF9E7;
+      --red: #922B21;
+      --pale-red: #FDEDEC;
+      --grey: #566573;
+      --light-grey: #F2F3F4;
+      --text: #1C2833;
+      --white: #FFFFFF;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #F0F3F4;
+      color: var(--text);
+      padding: 32px 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+      zoom: 1.6;
+    }
+
+    h1 {
+      font-size: 26px;
+      color: var(--navy);
+      margin-bottom: 4px;
+    }
+
+    .subtitle {
+      font-size: 13px;
+      color: var(--grey);
+      margin-bottom: 28px;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: bold;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--grey);
+      margin: 36px 0 12px;
+    }
+
+    /* ── OVERVIEW METRICS ────────────────────────────────────────────────── */
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .metric-card {
+      background: var(--white);
+      border: 1px solid #D5D8DC;
+      border-radius: 8px;
+      padding: 16px;
+      border-top: 4px solid var(--blue);
+    }
+
+    .metric-card.red {
+      border-top-color: var(--red);
+    }
+
+    .metric-card.orange {
+      border-top-color: var(--orange);
+    }
+
+    .metric-card.yellow {
+      border-top-color: #D4AC0D;
+    }
+
+    .metric-number {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .metric-card.red .metric-number {
+      color: var(--red);
+    }
+
+    .metric-card.orange .metric-number {
+      color: var(--orange);
+    }
+
+    .metric-card.yellow .metric-number {
+      color: #D4AC0D;
+    }
+
+    .metric-title {
+      font-size: 13px;
+      font-weight: bold;
+      color: var(--navy);
+      margin-bottom: 6px;
+      line-height: 1.3;
+    }
+
+    .metric-source {
+      font-size: 11px;
+      color: var(--grey);
+      line-height: 1.4;
+    }
+
+    /* ── ARROW ──────────────────────────────────────────────────────────── */
+    .arrow-row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 16px 0;
+      font-size: 22px;
+      color: var(--blue);
+      opacity: 0.5;
+    }
+
+    /* ── PIPELINES (DIGNITY STACK) ──────────────────────────────────────── */
+    .pipelines {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .pipeline-row {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 0;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid #D5D8DC;
+    }
+
+    .pipeline-label {
+      padding: 16px;
+      font-size: 16px;
+      font-weight: bold;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      color: var(--white);
+    }
+
+    .pipeline-label span {
+      font-size: 11px;
+      font-weight: normal;
+      opacity: 0.85;
+      margin-top: 4px;
+    }
+
+    .pipeline-desc {
+      padding: 16px 20px;
+      font-size: 12px;
+      background: var(--white);
+      line-height: 1.6;
+      color: var(--text);
+    }
+
+    .pipeline-desc ul {
+      margin-top: 8px;
+      margin-left: 18px;
+      color: var(--grey);
+    }
+
+    .pipeline-desc li {
+      margin-bottom: 4px;
+    }
+
+    .pa {
+      background: #1E8449;
+    }
+
+    /* MDI - Green */
+    .pb {
+      background: #8E44AD;
+    }
+
+    /* RDI - Purple */
+    .pc {
+      background: #2E86C1;
+    }
+
+    /* EDI - Blue */
+
+    /* ── OPERATIONS GRID (IMPLEMENTATION) ───────────────────────────────── */
+    .ops-grid-4 {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .op-card {
+      background: var(--navy);
+      color: var(--white);
+      border-radius: 8px;
+      padding: 20px 16px;
+      text-align: center;
+    }
+
+    .op-number {
+      font-size: 28px;
+      font-weight: bold;
+      opacity: 0.3;
+      margin-bottom: 4px;
+    }
+
+    .op-title {
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      line-height: 1.3;
+    }
+
+    .op-desc {
+      font-size: 11px;
+      opacity: 0.9;
+      line-height: 1.5;
+    }
+
+    /* ── ALMU BOX (ECONOMICS) ───────────────────────────────────────────── */
+    .almu-box {
+      background: var(--navy);
+      color: var(--white);
+      border-radius: 10px;
+      padding: 24px;
+      margin: 12px 0;
+    }
+
+    .econ-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+    }
+
+    .econ-col h3 {
+      font-size: 16px;
+      margin-bottom: 16px;
+      color: var(--light-blue);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      padding-bottom: 8px;
+    }
+
+    .econ-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      margin-bottom: 10px;
+      opacity: 0.9;
+    }
+
+    .econ-val {
+      font-weight: bold;
+      color: var(--light-green);
+    }
+
+    .econ-total {
+      display: flex;
+      justify-content: space-between;
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      color: var(--white);
+    }
+
+    /* ── FAQ DETAILS ────────────────────────────────────────────────────── */
+    details {
+      background: var(--white);
+      border: 1px solid #D5D8DC;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      padding: 16px 20px;
+    }
+
+    summary {
+      font-size: 13px;
+      font-weight: bold;
+      color: var(--navy);
+      cursor: pointer;
+      list-style: none;
+      position: relative;
+      padding-right: 20px;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    summary::after {
+      content: '+';
+      position: absolute;
+      right: 0;
+      top: 0;
+      color: var(--blue);
+    }
+
+    details[open] summary::after {
+      content: '−';
+    }
+
+    details p {
+      font-size: 12px;
+      line-height: 1.6;
+      margin-top: 12px;
+      color: var(--grey);
+    }
+
+    /* ── FALSIFIABILITY BOX ─────────────────────────────────────────────── */
+    .falsify-box {
+      background: var(--pale-orange);
+      border: 2px solid var(--orange);
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-top: 32px;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .falsify-box strong {
+      color: var(--orange);
+    }
+
+    /* ── FOOTER ─────────────────────────────────────────────────────────── */
+    .footer {
+      margin-top: 40px;
+      font-size: 11px;
+      color: var(--grey);
+      text-align: center;
+      border-top: 1px solid #D5D8DC;
+      padding-top: 20px;
+    }
+
+    .footer a {
+      color: var(--blue);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Systemic Dignity Infrastructure</h1>
+  <p class="subtitle">A comprehensive, industrially-specified pipeline for human recovery through the "Dignity Stack."
+  </p>
+
+  <!-- 1. OVERVIEW -->
+  <div class="section-label">The Problem — Systemic Failure</div>
+  <p style="font-size: 12px; color: var(--grey); margin-bottom: 16px; max-width: 800px; line-height: 1.5;">Despite $24
+    billion in California spending since 2019, chronic homelessness persists. Current approaches fail because they place
+    people in housing while they remain in acute physiological crisis—without the biological, relational, and economic
+    preconditions for stable tenure.</p>
+  <div class="grid-3">
+    <div class="metric-card red">
+      <div class="metric-number">650K+</div>
+      <div class="metric-title">Individuals Experiencing Homelessness</div>
+      <div class="metric-source">On a single night in the United States, with 260K classified as chronically homeless.
+      </div>
+    </div>
+    <div class="metric-card orange">
+      <div class="metric-number">2-16%</div>
+      <div class="metric-title">Housing Placement Rate</div>
+      <div class="metric-source">Emergency shelters in high-cost regions achieve minimal placement despite $40-50K
+        annual per-person costs.</div>
+    </div>
+    <div class="metric-card yellow">
+      <div class="metric-number">30-50K</div>
+      <div class="metric-title">Annual Cost Per Person</div>
+      <div class="metric-source">Emergency services, hospitalization, jail, and crisis interventions for each
+        chronically homeless individual.</div>
+    </div>
+  </div>
+
+  <div class="arrow-row">↓</div>
+
+  <!-- 2. DIGNITY STACK -->
+  <div class="section-label">The Dignity Stack — Three Layers</div>
+  <div class="pipelines">
+    <div class="pipeline-row">
+      <div class="pipeline-label pa">Layer 1: MDI<span>Material Dignity</span></div>
+      <div class="pipeline-desc">
+        <strong>Goal:</strong> Reverse physiological collapse caused by chronic street homelessness through secure
+        housing, metabolic recovery, and clinical stabilization.
+        <ul>
+          <li><strong>Adaptive Reuse:</strong> Convert distressed office towers (1,500+ residents).</li>
+          <li><strong>Phase Zero:</strong> 30-90 day metabolic stabilization (sleep, nutrition, wound care).</li>
+          <li><strong>Acoustic Sanctuaries:</strong> 150 sq ft units with STC 65 acoustic rating.</li>
+          <li><strong>Open Resource Center:</strong> Ground-floor unconditional-access facility.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="pipeline-row">
+      <div class="pipeline-label pb">Layer 2: RDI<span>Relational Dignity</span></div>
+      <div class="pipeline-desc">
+        <strong>Goal:</strong> Create the relational environment that makes housing inhabitable through social
+        integration, identity preservation, and continuous witness.
+        <ul>
+          <li><strong>Dunbar Pods:</strong> Residents organized into clusters of 15.</li>
+          <li><strong>Pod Stewards:</strong> Live-in staff providing ambient safety (Medicaid funded).</li>
+          <li><strong>Peer Support Networks:</strong> Residents serving as relational bridges.</li>
+          <li><strong>Biophilic Infrastructure:</strong> Living plant systems to reduce nervous system threat-detection.
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="pipeline-row">
+      <div class="pipeline-label pc">Layer 3: EDI<span>Economic Dignity</span></div>
+      <div class="pipeline-desc">
+        <strong>Goal:</strong> Enable transition from passive recipient to active economic participant through protected
+        cooperative work.
+        <ul>
+          <li><strong>The Return Deficit:</strong> Overcoming the penalty of multiple stigmatized markers.</li>
+          <li><strong>Cooperative Reintegration:</strong> Internal worker cooperatives (culinary, maintenance,
+            security).</li>
+          <li><strong>Identity Capital Accumulation:</strong> Building self-efficacy before external labor market
+            exposure.</li>
+          <li><strong>Tenancy Bridge Guarantee:</strong> Financial mechanism guaranteeing rent to external landlords.
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-row">↓</div>
+
+  <!-- 3. IMPLEMENTATION -->
+  <div class="section-label">Implementation — The Los Angeles Pipeline</div>
+  <div class="ops-grid-4">
+    <div class="op-card" style="background: var(--blue);">
+      <div class="op-number">01</div>
+      <div class="op-title">Phase Zero: Stabilization</div>
+      <div class="op-desc">Four-Domain Protocol: Metabolic Refeeding, Sleep Architecture Restoration, Wound Care, and
+        Delayed Psychiatric Diagnosis (30-90 days to prevent iatrogenic harm).</div>
+    </div>
+    <div class="op-card" style="background: var(--navy);">
+      <div class="op-number">02</div>
+      <div class="op-title">Field Architecture</div>
+      <div class="op-desc">12-24 month pre-admission engagement. By-Name HMIS Registry, ACT Team Sustained Presence, The
+        Warm Offer Window, and final Encampment Resolution.</div>
+    </div>
+    <div class="op-card" style="background: var(--orange);">
+      <div class="op-number">03</div>
+      <div class="op-title">Legal Lever System</div>
+      <div class="op-desc">Parallel compelled pathways for individuals with anosognosia. CARE Court, Assisted Outpatient
+        Treatment (AOT), and LPS Conservatorship expansion (SB 43).</div>
+    </div>
+    <div class="op-card" style="background: var(--grey);">
+      <div class="op-number">04</div>
+      <div class="op-title">Tower Architecture</div>
+      <div class="op-desc">One California Plaza prototype. Ground floor Resource Center, Floors 2-4 Phase Zero Clinical,
+        Floors 5-20 Residential Pods, Upper Floors Cooperatives.</div>
+    </div>
+  </div>
+
+  <div class="arrow-row">↓</div>
+
+  <!-- 4. ECONOMICS -->
+  <div class="section-label">The Economics — Efficiency Surplus</div>
+  <div class="almu-box">
+    <div class="econ-grid">
+      <div class="econ-col">
+        <h3>Annual Efficiency Surplus per Tower</h3>
+        <div class="econ-row"><span>Emergency Room Visits Avoided</span><span class="econ-val">$12-18M</span></div>
+        <div class="econ-row"><span>Jail/Criminal Justice Reduction</span><span class="econ-val">$8-15M</span></div>
+        <div class="econ-row"><span>Crisis Service Reduction</span><span class="econ-val">$6-12M</span></div>
+        <div class="econ-row"><span>Hospitalization Reduction</span><span class="econ-val">$5-10M</span></div>
+        <div class="econ-total"><span>Total Annual Surplus</span><span class="econ-val"
+            style="color:var(--light-green);">$33-82M</span></div>
+      </div>
+      <div class="econ-col">
+        <h3>Funding Stack (Annual)</h3>
+        <div class="econ-row"><span>Medi-Cal Sub-Acute Billing (Phase Zero)</span><span class="econ-val"
+            style="color:var(--light-blue);">$8-12M</span></div>
+        <div class="econ-row"><span>CalAIM Enhanced Care Management</span><span class="econ-val"
+            style="color:var(--light-blue);">$5-8M</span></div>
+        <div class="econ-row"><span>CalAIM In Lieu of Services (Pod Stewards)</span><span class="econ-val"
+            style="color:var(--light-blue);">$4-6M</span></div>
+        <div class="econ-row"><span>Measure Alpha (LA County Prop 47)</span><span class="econ-val"
+            style="color:var(--light-blue);">$6-10M</span></div>
+        <div class="econ-total"><span>Total Annual Revenue</span><span class="econ-val"
+            style="color:var(--light-blue);">$23-36M</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-row">↓</div>
+
+  <!-- 5. FAQ -->
+  <div class="section-label">Frequently Asked Questions</div>
+  <details>
+    <summary>What makes this different from Housing First?</summary>
+    <p>Housing First places people directly from the street into permanent housing. SDI adds a critical missing layer:
+      Phase Zero metabolic stabilization. People are placed in housing only after their sleep, nutrition, and medical
+      conditions have been restored. This sequencing change dramatically improves retention rates.</p>
+  </details>
+  <details>
+    <summary>Why convert office towers instead of building new housing?</summary>
+    <p>Post-pandemic commercial real estate is deeply distressed. Buildings originally valued at $400M+ can be acquired
+      for $100-150M when vacancy exceeds 40%. This exploits existing infrastructure (utilities, location, transit
+      access) at a fraction of new construction cost while removing a distressed asset from the municipal tax base.</p>
+  </details>
+  <details>
+    <summary>How does the Dunbar Pod structure work?</summary>
+    <p>Humans can maintain stable social bonds with roughly 150 people (Dunbar's number). Residents are organized into
+      pods of exactly 154, further divided into 12-person sub-pods. This prevents anonymity while avoiding the
+      high-stress, predatory environments of large congregate shelters.</p>
+  </details>
+  <details>
+    <summary>What is the Pod Steward role?</summary>
+    <p>Pod Stewards are live-in staff who provide continuous ambient presence and relational witness. Unlike case
+      managers who monitor compliance, Pod Stewards are peer-adjacent figures who know residents by name, remember their
+      history, and signal safety through their presence. This role is funded through Medicaid as a clinical service.</p>
+  </details>
+  <details>
+    <summary>What is the Singular Prototype Threshold?</summary>
+    <p>Eight binary verification metrics must pass before the model is scaled. If the prototype fails on any metric—80%
+      retention, $33-82M efficiency surplus, zero ghost assets, etc.—the model is rejected. This is a falsifiability
+      gate built into the framework.</p>
+  </details>
+  <details>
+    <summary>What about people who don't want to be housed?</summary>
+    <p>The framework includes a Legal Lever System for individuals with anosognosia (inability to perceive their own
+      psychiatric condition). CARE Court, Assisted Outpatient Treatment, and LPS Conservatorship provide compelled
+      pathways. However, all residents retain unrestricted voluntary egress after admission, except under active legal
+      conservatorship.</p>
+  </details>
+
+  <div class="falsify-box">
+    <strong>The Falsifiability Clause:</strong> Eight binary verification metrics must pass before network expansion
+    proceeds. If One California Plaza operates at full specification with all operations active for 24 months and fails
+    to meet thresholds (e.g. 80% housing retention, $33M efficiency surplus), the thesis is falsified. The MDI pipeline
+    engineering model does not produce the claimed outcome. Failure requires foundational revision. This clause is the
+    difference between a policy proposal (evaluated on intention) and an engineering specification (evaluated on
+    measured performance).
+  </div>
+
+  <div class="footer">
+    Material Dignity Infrastructure · Charles J. DiBella, Principal Systems Architect · Working Paper May 2026<br>
+    Download all papers: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9703312">SSRN</a>
+    &nbsp;|&nbsp;
+    View Repository: <a href="https://github.com/material-dignity/working_papers">GitHub</a>
+  </div>
+
+</body>
+
+</html>
