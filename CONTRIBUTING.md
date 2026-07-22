@@ -12,7 +12,7 @@ Material Dignity Infrastructure is a five-paper theoretical architecture coverin
 - **WP4**: Relational Dignity Infrastructure (the human layer)
 - **WP5**: Economic Dignity Infrastructure (cooperative reintegration and labor market reentry) [Draft]
 
-The papers specify mechanisms. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one.
+The papers specify mechanisms. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one. We explicitly invite data scientists, urban architects, and econometricians to audit the falsifiable claims made throughout the framework and contribute data to close these gaps.
 
 ## Where Contributions Are Needed
 
@@ -77,7 +77,9 @@ WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechani
 
 Accepted pull requests are merged into the working repository. Contributors are credited in a CONTRIBUTORS.md file with their name (or handle), area of contribution, and date. Substantial contributions that alter the theoretical architecture will be acknowledged in subsequent paper revisions on SSRN.
 
-This is not an academic journal. There is no peer review gate. There is editorial judgment about coherence and quality. If a contribution is rejected, the reason will be stated in the pull request discussion.
+**Decisions are made via open-source consensus.** Per the [GOVERNANCE.md](./GOVERNANCE.md) protocol, this ensures that technical direction is driven by data validation and empirical verification. The Principal Systems Architect retains ultimate authority over the engineering core, ensuring your voice is heard and integrated via a generic administrative Git account without requiring public exposure.
+
+This is not an academic journal. There is no traditional peer review gate; there is rigorous engineering judgment regarding coherence, falsifiability, and quality. If a contribution is rejected, the empirical or logical reason will be stated in the pull request discussion.
 
 ## Who Should Contribute
 
