@@ -17,10 +17,11 @@ The theoretical foundation is articulated across a sequential five-paper arc. Be
 - **[WP4: Relational Dignity Infrastructure (The Human Layer)](./wp4_human_layer)** — Defines the relational environment necessary to close the Housing First retention gap.
 - **[WP5: Economic Dignity Infrastructure](./wp5_economic_dignity)** — Specifies the Cooperative Reintegration Mechanism and the Tenancy Bridge Guarantee.
 
-## The Administrative Triad
+## The Administrative Core
 
-To prevent institutional capture and ensure the framework is executed as a rigorous engineering specification rather than a political initiative, the repository is governed by three operational documents:
+To prevent institutional capture and ensure the framework is executed as a rigorous engineering specification rather than a political initiative, the repository is governed by the following operational documents:
 
+- **[UNCOMPROMISING-STANDARD.md](./UNCOMPROMISING-STANDARD.md)** — The theoretical rationale establishing aerospace-grade safety tolerances for social infrastructure and defining the conditions of falsifiability.
 - **[GOVERNANCE.md](./GOVERNANCE.md)** — Establishes the split-authority architecture isolating the Principal Systems Architect from executive operations and municipal pilot friction.
 - **[PILOT-SPECIFICATIONS.md](./PILOT-SPECIFICATIONS.md)** — Codifies the non-negotiable municipal gating criteria (e.g., Causal Sequencing Compliance, Auditable Infrastructure Mandate) required for an authorized pilot.
 - **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Formalizes the open-source consensus model, inviting systems architects and econometricians to audit falsifiable claims without academic gatekeeping.
