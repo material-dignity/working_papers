@@ -35,7 +35,7 @@ For offline municipal distribution, presentations, and institutional archival, t
 The SDI framework bypasses traditional academic gatekeeping in favor of rapid, open-source operational impact. We invite municipal administrators, Medicaid waiver architects, clinical directors, and systems engineers to participate in active peer review.
 
 If you identify a structural vulnerability, missing operational definition, or theoretical gap:
-1. Consult the **[Systemic Dignity Glossary](./Systemic_Dignity_Glossary.md)**.
+1. Consult the **[Systemic Dignity Glossary](./www/Systemic_Dignity_Glossary.md)**.
 2. Open an **Issue** to debate the taxonomy or structural logic.
 3. Submit a **Pull Request** to harden the framework.
 
