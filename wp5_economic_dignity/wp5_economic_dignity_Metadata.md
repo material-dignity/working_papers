@@ -8,7 +8,7 @@
 ---
 
 ## Abstract
-Material stabilization within a dedicated institutional environment does not on its own produce societal reintegration. Individuals stabilized materially and relationally still face a competitive external labor market that penalizes r\'{e}sum\'{e} gaps institutional histories and the absence of normative identity capital. When stabilized residents attempt traditional labor market reentry they encounter the Return Deficit which is the aggregate compounding reduction in labor market returns produced by carrying multiple co-occurring stigmatized institutional markers simultaneously. This paper synthesizes established findings across multiple disciplines into a proposed institutional design. It develops a theoretical framework and specifies mechanisms intended for future empirical evaluation rather than presenting new causal estimates. The paper introduces the Return Deficit as its principal theoretical contribution specifies the cooperative reintegration mechanism and the Tenancy Bridge Guarantee and identifies the failure modes that implementation must address. Detailed financial modeling is reserved for a subsequent working paper in this series.
+Material stabilization within a dedicated institutional environment does not on its own produce societal reintegration. Individuals stabilized materially and relationally still face a competitive external labor market that penalizes r\'{e}sum\'{e} gaps institutional histories and the absence of normative identity capital. When stabilized residents attempt traditional labor market reentry they encounter the Return Deficit which is the aggregate compounding reduction in labor market returns produced by carrying multiple co-occurring stigmatized institutional markers simultaneously. This paper synthesizes established findings across multiple disciplines into a proposed institutional design. It develops a theoretical framework and specifies mechanisms intended for future empirical evaluation. It presents no new causal estimates. The paper introduces the Return Deficit as its principal theoretical contribution specifies the cooperative reintegration mechanism and the Tenancy Bridge Guarantee and identifies the failure modes that implementation must address. Detailed financial modeling is reserved for a subsequent working paper in this series.
 
 ---
 
@@ -27,9 +27,8 @@ Economic Dignity Infrastructure, agentive selfhood, identity capital, return def
 ---
 
 ## Target eJournals
-1. Public Economics eJournal
-2. Public Policy & Administration eJournal
-3. Social Welfare & Social Insurance eJournal
+1. egin{itemize}[nosep, before={space{-8pt}}, leftmargin=2em]
+2. Social Enterprise eJournal
 
 ---
 
