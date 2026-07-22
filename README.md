@@ -26,6 +26,10 @@ To prevent institutional capture and ensure the framework is executed as a rigor
 - **[PILOT-SPECIFICATIONS.md](./PILOT-SPECIFICATIONS.md)** — Codifies the non-negotiable municipal gating criteria (e.g., Causal Sequencing Compliance, Auditable Infrastructure Mandate) required for an authorized pilot.
 - **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Formalizes the open-source consensus model, inviting systems architects and econometricians to audit falsifiable claims without academic gatekeeping.
 
+## Distribution & Offline Access
+
+For offline municipal distribution, presentations, and institutional archival, the repository maintains the **[SDI Master Specification](./www/SDI_Master_Specification.pdf)** within the `/www` directory. This document is a unified, 100+ page compiled PDF containing the entire Administrative Core, the sequential five-paper arc, and the Systemic Dignity Glossary in a single architectural blueprint.
+
 ## Open-Source Peer Review
 
 The SDI framework bypasses traditional academic gatekeeping in favor of rapid, open-source operational impact. We invite municipal administrators, Medicaid waiver architects, clinical directors, and systems engineers to participate in active peer review.
