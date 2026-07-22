@@ -10,7 +10,6 @@
 ## Abstract
 The housing crisis persists not because the United States lacks buildings, materials, or technical capacity, but because the purpose of shelter has been systemically transformed. Housing has shifted from a basic human necessity to a financial instrument optimized for wealth storage, making scarcity a rational outcome and leaving millions of square feet in office towers, malls, hotels, and manufactured units idle. The disappearance of low‑friction rooming options has created a gap that existing programs cannot fill. This paper proposes a National Stability Utility to bridge that gap by treating emergency shelter not as a permanent real‑estate asset but as an industrial resource designed to be consumed. Using auditable infrastructure including real‑time sensors and verification tools that prove systemic facts. This framework restores trust, bypasses local veto points, and activates surplus capacity as a stabilization substrate. Situating this argument within the literature on housing financialization and system design, the paper offers a systemic analysis of the incentive architecture that produces scarcity and outlines the conditions under which surplus activation becomes feasible. The result is a cybernetic approach to material dignity that ensures every individual can access a lockable room and a clean bathroom today.
 
----
 
 ## Keywords
 Material Dignity, Surplus Asset Activation, Auditable Infrastructure, Data Desert, National Stability Utility, Manufactured Housing
