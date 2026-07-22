@@ -17,6 +17,7 @@ SDI applies this identical rigidity to social architecture. Metabolic collapse (
 A true engineering standard must define the exact mathematical conditions of its own failure. Social policy routinely survives failure by shifting definitions and moving goalposts. An uncompromising standard uses rigid, pre-defined metrics to establish hard failure states.
 
 Within SDI, these falsifiable metrics include:
+
 *   **Auditable Infrastructure:** Cryptographic, real-time sensor verification of physical unit activation. If units are funded but remain unverified on the network, the infrastructure has failed (the Ghost Asset Problem).
 *   **The Return Deficit:** The quantified penalty imposed by the external labor market upon transitioning residents. If the internal cooperative micro-economy fails to bridge this deficit, the Economic Dignity layer has failed.
 
@@ -25,6 +26,7 @@ If the data does not validate the model, the model is falsified. It is not polit
 ## 3. The Rejection of the Modularity Trap
 
 Uncompromising standards prohibit the partial deployment of sequentially dependent architecture. The SDI stack is strictly sequential:
+
 *   **MDI (Physical Sanctuary)** -> **RDI (Relational Architecture)** -> **EDI (Economic Reintegration)**
 
 A municipality cannot adopt the "Pod Steward" (RDI) without first providing the physically sovereign "Sanctuary Space" (MDI). Attempting to do so degrades the framework and guarantees systemic collapse. The standard enforces total structural compliance or total refusal. There is no a la carte menu for human stabilization.
