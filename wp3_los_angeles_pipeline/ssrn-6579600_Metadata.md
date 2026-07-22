@@ -18,18 +18,18 @@ Material Dignity Infrastructure, adaptive reuse, homelessness stabilization, Mea
 ---
 
 ## JEL Classification Codes
-- **I18.** Health: Government Policy; Regulation; Public Health
-- **I38.** Welfare, Well-Being, and Poverty: Government Policy
-- **H75.** State and Local Government: Health; Education; Welfare; Public Pensions
-- **K32.** Environmental, Health, and Safety Law
-- **R58.** Regional Development Planning and Policy
+- **R31.** Housing Supply and Markets
+- **R53.** Public Facility Location Analysis, Public Investment, and Capital Stock
+- **H75.** State and Local Government, Health, Education, Welfare
+- **I38.** Government Policy, Provision and Effects of Welfare Programs
+- **K25.** Real Estate Law
 
 ---
 
 ## Target eJournals
-1. Urban Economics & Regional Studies eJournal
-2. Public Policy & Administration eJournal
-3. Social Welfare & Social Insurance eJournal
+1. Housing and Residential Economics
+2. State and Local Government eJournal
+3. Public Health Law and Policy eJournal
 
 ---
 
