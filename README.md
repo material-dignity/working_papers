@@ -1,29 +1,45 @@
-# Material Dignity Infrastructure
+# Systemic Dignity Infrastructure (SDI)
 
-This repository contains the theoretical architecture for the Material Dignity Infrastructure framework: a comprehensive strategy for reversing chronic unsheltered homelessness through systemic stabilization, cooperative economics, and supportive housing.
+This repository serves as the public architectural nexus for the **Systemic Dignity Infrastructure** framework: a comprehensive, sequentially dependent strategy for reversing chronic unsheltered homelessness. It rejects the assumption that capital volume alone resolves structural failure, proposing instead a rigorous engineering pipeline extending from street-level engagement through sovereign economic reentry.
 
-## Working Papers
+The framework integrates three architectural layers:
+1. **Material Dignity Infrastructure (MDI):** The physical absorption of surplus real estate to secure biological and metabolic stabilization.
+2. **Relational Dignity Infrastructure (RDI):** The social architecture (Dunbar-scale cohorts, Pod Stewards) required to restore agentive selfhood.
+3. **Economic Dignity Infrastructure (EDI):** The cooperative micro-economies necessary to bypass the external labor market's Return Deficit, culminating in the Tenancy Bridge Guarantee.
 
-The framework is articulated across five core working papers:
+## The Working Paper Series
 
-- [WP1: Material Dignity Infrastructure (Distributed Stewardship Model)](./wp1_stewardship_model)
-- [WP2: Structural Misalignment (Activation of Surplus Shelter Capacity)](./wp2_surplus_capacity)
-- [WP3: Los Angeles Metropolitan Stabilization (A Street-to-Home Pipeline Analysis)](./wp3_los_angeles_pipeline)
-- [WP4: Relational Dignity Infrastructure (The Human Layer)](./wp4_human_layer)
-- [WP5: Economic Dignity Infrastructure (Cooperative Reintegration and Labor Market Reentry)](./wp5_economic_dignity)
+The theoretical foundation is articulated across a sequential five-paper arc. Because the architecture is not modular, the papers must be engaged sequentially:
 
-## Systemic Dignity Glossary
+- **[WP1: Foundational Theory](./wp1_stewardship_model)** — Establishes the baseline requirements for material dignity and the Autonomous Life Maintenance Unit (ALMU).
+- **[WP2: Structural Misalignment & Surplus Capacity](./wp2_surplus_capacity)** — Diagnoses the incentive failure of the housing market and proposes the National Stability Utility.
+- **[WP3: Los Angeles Metropolitan Stabilization](./wp3_los_angeles_pipeline)** — Engineers the physical intake pipeline, establishing the causal necessity of Phase Zero biological stabilization.
+- **[WP4: Relational Dignity Infrastructure (The Human Layer)](./wp4_human_layer)** — Defines the relational environment necessary to close the Housing First retention gap.
+- **[WP5: Economic Dignity Infrastructure](./wp5_economic_dignity)** — Specifies the Cooperative Reintegration Mechanism and the Tenancy Bridge Guarantee.
 
-The framework employs a specialized theoretical taxonomy. New contributors should review the [Systemic Dignity Glossary](./Systemic_Dignity_Glossary.md) as their primary navigation entry point to understand the core terminology used across all five working papers.
+## Open-Source Peer Review
 
-## Working Research
+The SDI framework bypasses traditional academic gatekeeping in favor of rapid, open-source operational impact. We invite municipal administrators, Medicaid waiver architects, clinical directors, and systems engineers to participate in active peer review.
 
-The [/working_research](./working_research) directory contains draft materials, policy outlines, and system matrices that are under active development.
+If you identify a structural vulnerability, missing operational definition, or theoretical gap:
+1. Consult the **[Systemic Dignity Glossary](./Systemic_Dignity_Glossary.md)**.
+2. Open an **Issue** to debate the taxonomy or structural logic.
+3. Submit a **Pull Request** to harden the framework.
 
-## Contributing
+## Compilation Instructions
 
-This framework is structurally open to public contribution. Specific areas requiring specialized domain expertise (financial modeling, legal frameworks, clinical design) are detailed in [CONTRIBUTING.md](./CONTRIBUTING.md).
+The working papers are authored in LaTeX to ensure strict typographical consistency. To compile any paper locally:
 
-## License
+```bash
+cd wp_directory
+pdflatex ssrn-XXXXXXX_Revised.tex
+bibtex ssrn-XXXXXXX_Revised
+pdflatex ssrn-XXXXXXX_Revised.tex
+pdflatex ssrn-XXXXXXX_Revised.tex
+```
+
+## Contributing and Licensing
+
+This framework is structurally open to public contribution. See [CONTRIBUTING.md](./CONTRIBUTING.md) for domain-specific requests (e.g., financial modeling, capitation rate analysis).
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](./LICENSE) file for legal details.
