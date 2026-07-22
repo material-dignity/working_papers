@@ -23,8 +23,6 @@ Material Dignity, Surplus Asset Activation, Auditable Infrastructure, Data Deser
 - **H41.** Public Goods
 - **H11.** Structure, Scope, and Performance of Government
 - **D72.** Political Economy; Rent-seeking and Lobbying
-- **O33.** Technological Change: Choices and Consequences
-- **K23.** Regulated Industries and Administrative Law
 
 ---
 
